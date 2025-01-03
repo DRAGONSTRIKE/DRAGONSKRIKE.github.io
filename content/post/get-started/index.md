@@ -1,7 +1,12 @@
 ---
+<<<<<<< HEAD
 title: 🎉 Easily create your own simple yet highly customizable blog
 summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
 date: 2023-10-27
+=======
+title: 🎉 Happy new year!
+date: 2025-01-01
+>>>>>>> 5087bdceb4eb92efe561daf11b7ad00143827bef
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
