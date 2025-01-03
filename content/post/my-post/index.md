@@ -1,6 +1,6 @@
 ---
-title: Happy new year!
-date: 2025-01-01T08:00:00.000Z
+title: "Happy New Year!"
+date: "2025-01-01"
 ---
 
 🎊🍻🎇
