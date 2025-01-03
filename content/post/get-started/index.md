@@ -1,6 +1,6 @@
 ---
 title: 🎉 Happy new year!
-date: 2025-01-1
+date: 2025-01-01
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
