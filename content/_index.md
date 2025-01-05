@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: wukongputi.jpg
           filters:
-            brightness: 0.6
+            brightness: 0.8
           size: cover
           position: center
           parallax: false
