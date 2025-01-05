@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Let It Snow: Designing Snowfall Experience in VR"
 authors:
 - admin
 - Robert Ford
