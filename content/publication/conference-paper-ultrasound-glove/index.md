@@ -1,5 +1,5 @@
 ---
-title: 'Thermal Masking: When the Illusion Takes Over the Real'
+title: 'Fabric Thermal Display using Ultrasonic Waves'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,14 +7,13 @@ title: 'Thermal Masking: When the Illusion Takes Over the Real'
 authors:
   - admin
   - Singhal, Yatharth
-  - Gil, Hyunjae 
   - Kim, Jin Ryong
 
 # Author notes (optional)
 author_notes:
 
-date: "2024-09-01T00:00:00Z"
-doi: 'https://doi.org/10.1145/3613904.3641941'
+date: "2023-09-01T00:00:00Z"
+doi: 'https://doi.org/10.1145/3489849.3489889'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -25,19 +24,19 @@ publishDate: ''
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems*
-publication_short: CHI
+publication: 2023 IEEE International Symposium on Mixed and Augmented Reality
+publication_short: ISMAR
 
-abstract: This paper reports on a thermal illusion called thermal masking. Thermal masking is a phenomenon induced by thermal referral to completely mask the original thermal sensation, providing thermal sensation only at the tactile site. Three experiments are conducted using thermal and vibrotactile actuators to investigate the nature of thermal masking on human arms. The first experiment investigates the effects of different temperatures on masking. The results show a higher percentage of thermal masking occurs in warm than hot or cold conditions. The second experiment examines how far the thermal masking can be perceived. The results show that masking can reach up to 24 cm from the thermal site. The third experiment explores the interaction space by placing the tactile actuators on the opposite side of the thermal actuator. The results confirm that thermal masking can reach the other side of the arm, and the performance was higher in warm conditions.
+abstract: This paper presents a fabric-based thermal display of a polyester fabric material combined with thermally-conductive materials using an ultrasound haptic display. We first empirically test the thermal generation process in five fabric materials by applying 40 kHz ultrasonic waves to the fabric materials. We also examine their thermal characteristics by applying different frequencies and amplitudes of ultrasonic cues. We show that polyester demonstrates the best thermal performance. We then combine it with thermally-conductive materials, including copper and aluminum, and compare them with the fabric-only condition. Two user studies show that our approach of combining a fabric material with copper and aluminum outperforms fabric-only conditions in thermal perception and thermal level identification. We integrate polyester with aluminum into a glove to explore the use cases in VR and share our findings, insights, limitations, and future works.
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-  - HCI theory, concepts and models
+  - Haptic 
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

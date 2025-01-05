@@ -1,20 +1,20 @@
 ---
-title: 'Thermal Masking: When the Illusion Takes Over the Real'
+title: 'Mid-Air Thermo-Tactile Feedback using Ultrasound Haptic Display'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Singhal, Yatharth
+  - admin
   - Gil, Hyunjae 
   - Kim, Jin Ryong
 
 # Author notes (optional)
 author_notes:
 
-date: "2024-09-01T00:00:00Z"
-doi: 'https://doi.org/10.1145/3613904.3641941'
+date: "2021-09-01T00:00:00Z"
+doi: 'https://doi.org/10.1145/3489849.3489889'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -25,19 +25,19 @@ publishDate: ''
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems*
-publication_short: CHI
+publication: Proceedings of the 27th ACM Symposium on Virtual Reality Software and Technology
+publication_short: VRST
 
-abstract: This paper reports on a thermal illusion called thermal masking. Thermal masking is a phenomenon induced by thermal referral to completely mask the original thermal sensation, providing thermal sensation only at the tactile site. Three experiments are conducted using thermal and vibrotactile actuators to investigate the nature of thermal masking on human arms. The first experiment investigates the effects of different temperatures on masking. The results show a higher percentage of thermal masking occurs in warm than hot or cold conditions. The second experiment examines how far the thermal masking can be perceived. The results show that masking can reach up to 24 cm from the thermal site. The third experiment explores the interaction space by placing the tactile actuators on the opposite side of the thermal actuator. The results confirm that thermal masking can reach the other side of the arm, and the performance was higher in warm conditions.
+abstract: This paper presents a mid-air thermo-tactile feedback system using an ultrasound haptic display. We design a proof-of-concept thermo-tactile feedback system with an open-top chamber, heat modules, and an ultrasound display. Our approach is to provide heated airflow along the path to the focused pressure point created from the ultrasound display to generate thermal and vibrotactile cues in mid-air simultaneously. We confirm that our system can generate the thermo-tactile stimuli up to 54.2°C with 3.43 mN when the ultrasonic haptic signal was set to 100 Hz with a 12 mm radius of the cue size. We also confirm that our system can provide a stable temperature (mean error=0.25\%). We measure the warm detection threshold (WDT) and the heat-pain detection threshold (HPDT). The results show that the mean WDT was 32.8°C (SD=1.12), and the mean HPDT was 44.6°C (SD=1.64), which are consistent with the contact-based thermal thresholds. We also found that the accuracy of haptic pattern identification is similar for non-thermal (98.1\%) and thermal conditions (97.2\%), showing a non-significant effect of high temperature. We finally confirmed that thermo-tactile feedback further enhances the user experiences.
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-  - HCI theory, concepts and models
+  - Haptic devices
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

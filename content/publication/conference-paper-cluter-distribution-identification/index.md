@@ -1,20 +1,22 @@
 ---
-title: 'Thermal Masking: When the Illusion Takes Over the Real'
+title: 'A Comparison of cognitive approaches for clutter-distribution identification in nonstationary environments'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Xiang, Yijian 
+  - Kelsey, Malia 
   - admin
-  - Singhal, Yatharth
-  - Gil, Hyunjae 
-  - Kim, Jin Ryong
+  - Sen, Satyabrata
+  - Akcakaya, Murat 
+  - Nehorai, Arye
 
 # Author notes (optional)
 author_notes:
 
-date: "2024-09-01T00:00:00Z"
-doi: 'https://doi.org/10.1145/3613904.3641941'
+date: "2018-06-11T00:00:00Z"
+doi: 'https://doi.org/10.1109/RADAR.2018.8378604'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -25,19 +27,19 @@ publishDate: ''
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems*
-publication_short: CHI
+publication: 2018 IEEE Radar Conference
+publication_short: RadarConf
 
-abstract: This paper reports on a thermal illusion called thermal masking. Thermal masking is a phenomenon induced by thermal referral to completely mask the original thermal sensation, providing thermal sensation only at the tactile site. Three experiments are conducted using thermal and vibrotactile actuators to investigate the nature of thermal masking on human arms. The first experiment investigates the effects of different temperatures on masking. The results show a higher percentage of thermal masking occurs in warm than hot or cold conditions. The second experiment examines how far the thermal masking can be perceived. The results show that masking can reach up to 24 cm from the thermal site. The third experiment explores the interaction space by placing the tactile actuators on the opposite side of the thermal actuator. The results confirm that thermal masking can reach the other side of the arm, and the performance was higher in warm conditions.
+abstract: Most existing radar algorithms are developed under the assumption that the environment (clutter) is stationary. However, in practice, the statistical characteristics of the clutter can vary enormously in space, time, or both, depending on the radar-operational scenarios. If unaccounted for, these nonstationary variabilities may drastically hinder the radar performance. Therefore, to overcome such shortcomings, the cognitive radar framework is being developed to dynamically detect changes in the clutter characteristics, and to adapt to these changes by identifying the new clutter distribution. In this work, we present a sparse recovery based clutter identification technique, and compare its performance with the Ozturk algorithm based clutter identification method. The sparse recovery based technique uses kernel density estimation method to create the dictionary, and applies the batch orthogonal matching pursuit algorithm to identify the clutter distribution. With numerical examples we demonstrate that, in comparison to the Ozturk algorithm based method, the sparse recovery based technique provides (i) improved accuracy in identifying clutter distributions that have different parameters, but are from the same family; and (ii) robustness in terms of measurements used for dictionary generation and test distribution identification.
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-  - HCI theory, concepts and models
+  - Clutter identification 
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

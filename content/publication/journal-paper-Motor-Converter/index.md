@@ -1,20 +1,24 @@
 ---
-title: 'Thermal Masking: When the Illusion Takes Over the Real'
+title: 'Electromagnetic Compatibility Analysis of an Induction Motor Drive With Integrated Power Converter'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Chen, Tianyu 
+  - Caicedo-Narvaez, Carlos 
   - admin
-  - Singhal, Yatharth
-  - Gil, Hyunjae 
-  - Kim, Jin Ryong
+  - Moallem, Mehdi
+  - Fahimi, Babak 
+  - Kiani, Morgan
+
+
 
 # Author notes (optional)
 author_notes:
 
-date: "2024-09-01T00:00:00Z"
-doi: 'https://doi.org/10.1145/3613904.3641941'
+date: "2019-12-19T00:00:00Z"
+doi: 'https://doi.org/10.1109/TMAG.2019.2949518'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -25,19 +29,19 @@ publishDate: ''
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems*
-publication_short: CHI
+publication: IEEE Transactions on Magnetics
+publication_short: TOM
 
-abstract: This paper reports on a thermal illusion called thermal masking. Thermal masking is a phenomenon induced by thermal referral to completely mask the original thermal sensation, providing thermal sensation only at the tactile site. Three experiments are conducted using thermal and vibrotactile actuators to investigate the nature of thermal masking on human arms. The first experiment investigates the effects of different temperatures on masking. The results show a higher percentage of thermal masking occurs in warm than hot or cold conditions. The second experiment examines how far the thermal masking can be perceived. The results show that masking can reach up to 24 cm from the thermal site. The third experiment explores the interaction space by placing the tactile actuators on the opposite side of the thermal actuator. The results confirm that thermal masking can reach the other side of the arm, and the performance was higher in warm conditions.
+abstract: With the development of high-temperature wide bandgap power semiconductors, such as SiC MOSFET and GaN HEMT, it becomes possible to integrate the power converter directly into motors. However, the leakage magnetic flux in the motor may cause interference with the operation of the electronic circuit. In this article, the electromagnetic compatibility of the power converter integrated in an induction motor is investigated. The simulation shows that the leakage magnetic flux of the end-winding will penetrate into the nearby area, and it will cause interference with the Hall-effect current sensors if the power converter is mounted in the space between the motor end cap and the end-winding. A prototype of the GaN-HEMT-based power converter is built and integrated into a 3-hp induction motor. The leakage magnetic flux is scanned by the linear Hall-effect sensors and the measured result is aligned with the finite-element simulation.
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-  - HCI theory, concepts and models
+  - Power converter
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

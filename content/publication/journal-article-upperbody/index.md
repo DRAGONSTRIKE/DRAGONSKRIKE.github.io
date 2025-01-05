@@ -1,12 +1,13 @@
 ---
-title: "Let It Snow: Designing Snowfall Experience in VR"
+title: "Upper Body Thermal Referral and Tactile Masking for Localized Feedback"
 authors:
+- Son, Hyungki
 - admin
 - Singhal, Yatharth 
 - Kim, Jin Ryong
 author_notes:
-date: "2024-09-01T00:00:00Z"
-doi: "https://doi.org/10.1145/3659587"
+date: "2023-02-22T00:00:00Z"
+doi: "https://doi.org/10.1109/TVCG.2023.3247068"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -17,17 +18,17 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol"
-publication_short: "IMWUT"
+publication: "IEEE Transactions on Visualization and Computer Graphics"
+publication_short: "TVCG"
 
-abstract: We present Snow, a cross-modal interface that integrates cold and tactile stimuli in mid-air to create snowflakes and raindrops for VR experiences. Snow uses six Peltier packs and an ultrasound haptic display to create unique cold-tactile sensations for users to experience catching snowflakes and getting rained on their bare hands. Our approach considers humans' ability to identify tactile and cold stimuli without masking each other when projected onto the same location on their skin, making illusions of snowflakes and raindrops. We design both visual and haptic renderings to be tightly coupled to present snow melting and rain droplets for realistic visuo-tactile experiences. For multiple snowflakes and raindrops rendering, we propose an aggregated haptic scheme to simulate heavy snowfall and rainfall environments with many visual particles. The results show that the aggregated haptic rendering scheme demonstrates a more realistic experience than other schemes. We also confirm that our approach of providing cold-tactile cues enhances the user experiences in both conditions compared to other modality conditions.
+abstract: This paper investigates the effects of thermal referral and tactile masking illusions to achieve localized thermal feedback on the upper body. Two experiments are conducted. The first experiment uses a 2D array of sixteen vibrotactile actuators (4×4) with four thermal actuators to explore the thermal distribution on the user's back. A combination of thermal and tactile sensations is delivered to establish the distributions of thermal referral illusions with different numbers of vibrotactile cues. The result confirms that localized thermal feedback can be achieved through cross-modal thermo-tactile interaction on the user's back of the body. The second experiment is conducted to validate our approach by comparing it with thermal-only conditions with an equal and higher number of thermal actuators in VR. The results show that our thermal referral with a tactile masking approach with a lesser number of thermal actuators achieves higher response time and better location accuracy than thermal-only conditions. Our findings can contribute to thermal-based wearable design to achieve greater user performance and experiences.
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
 - Haptic devices
-featured: true
+featured: false
 
 # links:
 # - name: ""

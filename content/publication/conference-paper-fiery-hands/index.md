@@ -1,5 +1,5 @@
 ---
-title: 'Thermal Masking: When the Illusion Takes Over the Real'
+title: 'Thermal In Motion: Designing Thermal Flow Illusions with Tactile and Thermal Interaction'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,14 +7,14 @@ title: 'Thermal Masking: When the Illusion Takes Over the Real'
 authors:
   - admin
   - Singhal, Yatharth
-  - Gil, Hyunjae 
+  - Gil, Hyunjae
   - Kim, Jin Ryong
 
 # Author notes (optional)
 author_notes:
 
-date: "2024-09-01T00:00:00Z"
-doi: 'https://doi.org/10.1145/3613904.3641941'
+date: "2024-10-11T00:00:00Z"
+doi: 'https://doi.org/10.1145/3654777.3676457'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -25,19 +25,18 @@ publishDate: ''
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems*
-publication_short: CHI
+publication: Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology
+publication_short: UIST
 
-abstract: This paper reports on a thermal illusion called thermal masking. Thermal masking is a phenomenon induced by thermal referral to completely mask the original thermal sensation, providing thermal sensation only at the tactile site. Three experiments are conducted using thermal and vibrotactile actuators to investigate the nature of thermal masking on human arms. The first experiment investigates the effects of different temperatures on masking. The results show a higher percentage of thermal masking occurs in warm than hot or cold conditions. The second experiment examines how far the thermal masking can be perceived. The results show that masking can reach up to 24 cm from the thermal site. The third experiment explores the interaction space by placing the tactile actuators on the opposite side of the thermal actuator. The results confirm that thermal masking can reach the other side of the arm, and the performance was higher in warm conditions.
-
+abstract: We present a novel approach to render thermal and tactile feedback to the palm and fingertips through thermal and tactile integration. Our approach minimizes the obstruction of the palm and inner side of the fingers and enables virtual object manipulation while providing localized and global thermal feedback. By leveraging thermal actuators positioned strategically on the outer palm and back of the fingers in interplay with tactile actuators, our approach exploits thermal referral and tactile masking phenomena. Through a series of user studies, we validate the perception of localized thermal sensations across the palm and fingers, showcasing the ability to generate diverse thermal patterns. Furthermore, we demonstrate the efficacy of our approach in VR applications, replicating diverse thermal interactions with virtual objects. This work represents significant progress in thermal interactions within VR, offering enhanced sensory immersion at an optimal energy cost.
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-  - HCI theory, concepts and models
+  - Haptic 
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

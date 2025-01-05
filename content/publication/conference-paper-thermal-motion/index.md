@@ -1,20 +1,20 @@
 ---
-title: 'Thermal Masking: When the Illusion Takes Over the Real'
+title: 'Thermal In Motion: Designing Thermal Flow Illusions with Tactile and Thermal Interaction'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Singhal, Yatharth
-  - Gil, Hyunjae 
+  - Honrales, Daniel
+  - admin
   - Kim, Jin Ryong
 
 # Author notes (optional)
 author_notes:
 
-date: "2024-09-01T00:00:00Z"
-doi: 'https://doi.org/10.1145/3613904.3641941'
+date: "2024-10-11T00:00:00Z"
+doi: 'https://doi.org/10.1145/3654777.3676460'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -25,19 +25,19 @@ publishDate: ''
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems*
-publication_short: CHI
+publication: Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology
+publication_short: UIST
 
-abstract: This paper reports on a thermal illusion called thermal masking. Thermal masking is a phenomenon induced by thermal referral to completely mask the original thermal sensation, providing thermal sensation only at the tactile site. Three experiments are conducted using thermal and vibrotactile actuators to investigate the nature of thermal masking on human arms. The first experiment investigates the effects of different temperatures on masking. The results show a higher percentage of thermal masking occurs in warm than hot or cold conditions. The second experiment examines how far the thermal masking can be perceived. The results show that masking can reach up to 24 cm from the thermal site. The third experiment explores the interaction space by placing the tactile actuators on the opposite side of the thermal actuator. The results confirm that thermal masking can reach the other side of the arm, and the performance was higher in warm conditions.
+abstract: This study presents a novel method for creating moving thermal sensations by integrating the thermal referral illusion with tactile motion. Conducted through three experiments on human forearms, the first experiment examined the impact of temperature and thermal actuator placement on perceived thermal motion, finding the clearest perception with a centrally positioned actuator under both hot and cold conditions. The second experiment identified the speed thresholds of perceived thermal motion, revealing a wider detectable range in hot conditions (1.8 cm/s to 9.5cm/s) compared to cold conditions (2.4cm/s to 5.0cm/s). Finally, we integrated our approach into virtual reality (VR) to assess its feasibility through two interaction scenarios. Our results shed light on the comprehension of thermal perception and its integration with tactile cues, promising significant advancements in incorporating thermal motion into diverse thermal interfaces for immersive VR experiences.
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-  - HCI theory, concepts and models
+  - Haptic 
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
