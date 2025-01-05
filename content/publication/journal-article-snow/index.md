@@ -2,12 +2,11 @@
 title: "Let It Snow: Designing Snowfall Experience in VR"
 authors:
 - admin
-- Robert Ford
+- Singhal, Yatharth 
+- Kim, Jin Ryong
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2024-09-01T00:00:00Z"
+doi: "https://doi.org/10.1145/3659587"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,23 +17,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol"
+publication_short: "IMWUT"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We present Snow, a cross-modal interface that integrates cold and tactile stimuli in mid-air to create snowflakes and raindrops for VR experiences. Snow uses six Peltier packs and an ultrasound haptic display to create unique cold-tactile sensations for users to experience catching snowflakes and getting rained on their bare hands. Our approach considers humans' ability to identify tactile and cold stimuli without masking each other when projected onto the same location on their skin, making illusions of snowflakes and raindrops. We design both visual and haptic renderings to be tightly coupled to present snow melting and rain droplets for realistic visuo-tactile experiences. For multiple snowflakes and raindrops rendering, we propose an aggregated haptic scheme to simulate heavy snowfall and rainfall environments with many visual particles. The results show that the aggregated haptic rendering scheme demonstrates a more realistic experience than other schemes. We also confirm that our approach of providing cold-tactile cues enhances the user experiences in both conditions compared to other modality conditions.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

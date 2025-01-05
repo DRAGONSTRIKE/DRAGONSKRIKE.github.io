@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: 'https://utdallas.box.com/s/p4tsi35zwrz6bkbjl8f5ay843xp436zo'
     design:
       css_class: dark
       background:
