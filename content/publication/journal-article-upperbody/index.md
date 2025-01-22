@@ -1,7 +1,7 @@
 ---
 title: "Upper Body Thermal Referral and Tactile Masking for Localized Feedback"
 authors:
-- Hyungki, Son
+- Hyungki Son
 - admin
 - Yatharth Singhal
 - Jin Ryong Kim
