@@ -6,8 +6,8 @@ title: 'Fabric Thermal Display using Ultrasonic Waves'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Singhal, Yatharth
-  - Kim, Jin Ryong
+  - Yatharth, Singhal
+  - Jin Ryong, Kim
 
 # Author notes (optional)
 author_notes:

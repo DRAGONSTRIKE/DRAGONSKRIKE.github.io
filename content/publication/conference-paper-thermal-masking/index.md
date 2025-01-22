@@ -6,9 +6,9 @@ title: 'Thermal Masking: When the Illusion Takes Over the Real'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Singhal, Yatharth
-  - Gil, Hyunjae 
-  - Kim, Jin Ryong
+  - Yatharth, Singhal
+  - Hyunjae, Gil
+  - Jin Ryong, Kim
 
 # Author notes (optional)
 author_notes:

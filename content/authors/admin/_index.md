@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Haokun Wang (王昊昆)
+title: Haokun Wang
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -124,5 +124,4 @@ interests:
 ---
 
 ## About Me
-
-Hi, I'm Haokun Wang, a PhD student at the University of Texas at Dallas, driven by a passion for exploring the intersection of technology and human interaction. My research focuses on haptics, virtual reality (VR), and human-computer interaction (HCI), aiming to enhance immersive experiences and bridge the gap between the physical and digital worlds.
+Hi, I'm Haokun Wang, a PhD student at the University of Texas at Dallas, driven by a passion for exploring the intersection of technology and human interaction. I'm conducting research under the advisement of Prof. Jin Ryong Kim. My research focuses on haptics, virtual reality (VR), and human-computer interaction (HCI), aiming to enhance immersive experiences and bridge the gap between the physical and digital worlds.

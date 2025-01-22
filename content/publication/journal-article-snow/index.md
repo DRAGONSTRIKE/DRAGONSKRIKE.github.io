@@ -2,8 +2,8 @@
 title: "Let It Snow: Designing Snowfall Experience in VR"
 authors:
 - admin
-- Singhal, Yatharth 
-- Kim, Jin Ryong
+- Yatharth, Singhal
+- Jin Ryong, Kim
 author_notes:
 date: "2024-05-15T00:00:00Z"
 doi: "https://doi.org/10.1145/3659587"
