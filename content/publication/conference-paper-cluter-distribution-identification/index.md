@@ -5,12 +5,12 @@ title: 'A Comparison of cognitive approaches for clutter-distribution identifica
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Yijian, Xiang
-  - Malia, Kelsey
+  - Yijian Xiang
+  - Malia Kelsey
   - admin
-  - Satyabrata, Sen
-  - Murat, Akcakaya, 
-  - Arye, Nehorai
+  - Satyabrata Sen
+  - Murat Akcakaya 
+  - Arye Nehorai
 
 # Author notes (optional)
 author_notes:
