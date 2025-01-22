@@ -5,10 +5,10 @@ title: 'Mid-Air Thermo-Tactile Feedback using Ultrasound Haptic Display'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Yatharth,Singhal
+  - Yatharth Singhal
   - admin
-  - Hyunjae,Gil 
-  - Jin Ryong,Kim
+  - Hyunjae Gil 
+  - Jin Ryong Kim
 
 # Author notes (optional)
 author_notes:

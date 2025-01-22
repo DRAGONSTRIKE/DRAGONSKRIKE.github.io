@@ -5,12 +5,12 @@ title: 'Electromagnetic Compatibility Analysis of an Induction Motor Drive With 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Tianyu, Chen
-  - Carlos, Caicedo-Narvaez
+  - Tianyu Chen
+  - Carlos Caicedo-Narvaez
   - admin
-  - Mehdi, Moallem
-  - Babak, Fahimi
-  - Morgan, Kiani
+  - Mehdi Moallem
+  - Babak Fahimi
+  - Morgan Kiani
 
 
 
